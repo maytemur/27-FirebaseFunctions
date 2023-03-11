@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906799559654",
+    "project_id": "fir-functions-640ca",
+    "storage_bucket": "fir-functions-640ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906799559654:android:ab9d84da6d5167f0b8dc27",
+        "android_client_info": {
+          "package_name": "com.maytemur.firebasefunctions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906799559654-rodgc3ihvedehjhvt1krvbvtk69r2hof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyvN5o-B1hYYjjLF1swpVtFfzXKA_zo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906799559654-rodgc3ihvedehjhvt1krvbvtk69r2hof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
